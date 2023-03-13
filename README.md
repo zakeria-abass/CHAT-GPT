@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://lh3.googleusercontent.com/4Sef1QvyMKDgV48ANNnRcinbFoYxhGBt1Kq6HDFs83MdPKvMU1wn0VAnR1HYgnfIG1jiqikdtmIU02YZY1okh26KkjzbVS9Iobwss0jRbFQbxyZ9ANM4b2QJT6IGApaRLiAETNeBJUpl2MvpQkxe_TqMqs63tJJT7mQW5VFRzEE6p_XWVKlnzcz4fIuJDvcHiIGXh8TbtnlPZxFN3zD_oqBOmol9eBnz-j4Tc3I1YguJYKTjp-o6LypTn_csbjndZzWuaRr2Qhham3R97i8QzEHIFxonLWkwHSW0pD0hD36BbpPV38kJbv557Zlcpv64cmY36wKBX4wxT0YvNcLQWrx-7PG1Ke7vxT9QM2LBA_d9cG7xlR5w5u5DRjCxhOs1kkk_HzsEHbc69wzS_6yknuc33hRsXbusz3qOH4iWqslJxHzAJSeQVI-qveTr74W9PAA4gfFEqzqVVMR3jvj2wePhubCq_YaV_g-Ug7XrVIu8muDT7f9jUI9qccGvroFnhN_J_0qiZBiPVt3PIdufnyx_pWRWGJcFiVlEkS14YpFyK-gzeuPSxU_dlTbfTzrbo8G8L6l_0um2wTtjy_m64Raqy4ppT_xL_5Cah3tdR7eSyZLeC3DYa4A118EV-vR6lvNzzlQIJhGk8YKZoy3MerSEiuBjVMMljHGy9O9lBAPsy_4cLd0ws5A12pcpPMKp_WAHFCUpX0-eWii4hoH4qEIoaicTdwNY6MKwLkua7M4tzalyAcLepR3EoOFJTAyqmS-p_mYwVWZONtS6eYX7xpZOaXHo2Ox5V0sh7m-GaLY9W7pcZUwZMHNG-qp9s7ugxeEUADjeXQzxbJxtAn4mjBQLqna6lpMDGGd94yGFOA6NVnqhCj03mH_Aa0mtwcl-QKuYaO214zv_XT2dwUmrvv9M-1Oewg3Ds4iCU42Xru9P=w694-h833-no?authuser=0)" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -18,49 +18,3 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
